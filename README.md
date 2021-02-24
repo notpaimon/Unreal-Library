@@ -1,5 +1,11 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/451gy3lrr06wfxcw?svg=true)](https://ci.appveyor.com/project/EliotVU/unreal-library) 
+Fork disclaimer
+==============
+This is a fork of Eliot.UELib Unreal Package tool.
 
+This one was tweaked to produce a JSON formated decompile result rather than the original text format which is _unreal_ to parse.
+
+Original description below
+==============
 The Unreal library provides you an API to parse/deserialize package files such as .UDK, .UPK, from Unreal Engine games, and provide you the necessary methods to navigate its contents.
 
 At the moment these are all the object classes that are supported by this API:
